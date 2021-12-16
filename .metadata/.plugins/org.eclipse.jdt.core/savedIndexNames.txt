@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Eduardo Henrique\Desktop\Eduardo\Tecnologia da Informação\Treinamentos\Dominando IDEs Java\.metadata\.plugins\org.eclipse.jdt.core
+1210658807.index
+1865797976.index
+3194711644.index
